@@ -1,5 +1,5 @@
 # CaT Analysis
-Python code for analysis of calcium transient images obtained using linescan mode in Laser Scanning Microscopes. Still in development and limited in scope. Please free to share feedback and ideas.
+Python code for analysis of calcium transient images obtained using linescan mode in Laser Scanning Microscopes. Still in development and limited in scope. Please fell free to share feedback and ideas.
 
 Ca_Transient.py - Main script. Execute to start the analysis.
 
